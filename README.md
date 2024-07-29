@@ -22,6 +22,8 @@ localSupportKeyOfiOS = ['spRadar', 'spWifi', 'spStorage', 'spPower', 'spVideo', 
 
 结果文件展示如下：
 
+![image](https://github.com/user-attachments/assets/dd45590c-b8d3-48af-bcc5-f904630f56af)
+
 
 
 
